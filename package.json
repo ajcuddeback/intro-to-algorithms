@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-algorithms",
+  "version": "1.0.0",
+  "description": "Code examples for Introduction to Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "insertion-sort": "npx ts-node src/Chapters/Chapter_2_Getting_Started/insertionSort.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
